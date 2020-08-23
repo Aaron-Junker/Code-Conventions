@@ -1,13 +1,13 @@
-## HTML
-### Doctype
+# HTML
+## Doctype
 Use as doctype: `<!DOCTYPE html>`.
-### Tag names
+## Tag names
 Write tag names always with lowercase like `<html>` not `<Html>` or `<HTML>`.
-### Attribute names
+## Attribute names
 Write attribute names always with lowercase like `style=""` not `Style=""` or `STYLE=""`.
-### HTML 3.0 attributes
+## HTML 3.0 attributes
 Don't use attributes from html 3.0. For attributes like `color=""` or `bgcolor=""` use always the `style=""` tag.
-### HTML 4.0(1) Tags
+## HTML 4.0(1) Tags
 Don't use:
 * `<frame>`
 * `<frameset>`
@@ -22,11 +22,11 @@ Don't use:
 * `<applet>`
 * `<isindex>`
 * `<dir>`
-### Include stylesheets
+## Include stylesheets
 To include stylesheets use the `<link>` tag. Don't use `@import`.
-### Use tabulator
+## Use tabulator
 Don't use space as tabulator. Indent code right.
-### Encoding
+## Encoding
 Always use UTF-8 encoding in a document. Use `<meta charset="utf-8">`.
 ### Trailing Whitespace
 Don't use a trailing whitespace. 
